@@ -1,0 +1,6 @@
+CTkMessagebox==2.7
+customtkinter==5.2.2
+matplotlib==3.8.3
+numpy==2.1.1
+PyAudio==0.2.14
+scipy==1.14.1
